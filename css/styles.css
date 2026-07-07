@@ -234,7 +234,7 @@ main {
 }
 
 .links > a > strong > small {
-  display: block;
+  font-size: clamp(1rem, 1.5vw, 2.3rem);
 }
 
 .links > a > strong > i {
