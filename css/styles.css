@@ -233,7 +233,7 @@ main {
   z-index: 1;
 }
 
-.links > a > strong > small {
+.links > a > small {
   font-size: clamp(1rem, 1.5vw, 2.3rem);
 }
 
